@@ -1,4 +1,17 @@
-# 400-Bad-Request
-Proyecto de YardSales para aplicacion movil y Web 
+# 404 Bad Request 
 
-Si necesitas informacion Importante o tienes nueva info Favor de Ponerla en la Seccion de Wiki 
+Proyecto Vitalence 
+Aqui se subira los documentos 
+-Aplicaciones WEB Progresivas
+-Desarrollo Móvil Integral
+-Creación de Videojuegos
+-Este repositorio deberá tener un grupo de folders para guardar:
+-Código/Componentes de la aplicación
+-Documentación del proyecto solicitados por integradora
+-Backlog
+-Plan de trabajo
+-Documento de requerimientos funcionales y no funcionales
+-Bitácoras
+-Minutas
+Etc.
+
