@@ -1,4 +1,4 @@
-# 404 Bad Request  
+# 404 Bad Request    
 
 Proyecto App Móvil – Vitalence  
 - Desarrollo Móvil Integral
